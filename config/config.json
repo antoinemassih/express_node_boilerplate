@@ -1,0 +1,22 @@
+{
+  "development": {
+    "username": "antoinemassih",
+    "password": 'Monkeyhero69',
+    "database": "expense_tracker",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "antoinemassih",
+    "password": 'Monkeyhero69',
+    "database": "expense_tracker",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "antoinemassih",
+    "password": 'Monkeyhero69',
+    "database": "expense_tracker",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
