@@ -14,6 +14,11 @@ module.exports = (sequelize, DataTypes) => {
     }
   }
   raw_transaction.init({
+    id: {
+      type: DataTypes.INTEGER,
+      autoIncrement: true,
+      primaryKey: true
+    },
     date: DataTypes.STRING,
     message: DataTypes.STRING
   }, {

@@ -1,22 +1,22 @@
 {
   "development": {
-    "username": "antoinemassih",
-    "password": 'Monkeyhero69',
-    "database": "expense_tracker",
-    "host": "127.0.0.1",
+    "username": "doadmin",
+    "password": 'AVNS_DyBxEcx3OwsiSCER1HM',
+    "database": "defaultdb",
+    "host": "db-postgresql-lon1-88487-do-user-3028378-0.b.db.ondigitalocean.com",
     "dialect": "postgres"
   },
   "test": {
-    "username": "antoinemassih",
-    "password": 'Monkeyhero69',
-    "database": "expense_tracker",
-    "host": "127.0.0.1",
+    "username": "doadmin",
+    "password": 'AVNS_DyBxEcx3OwsiSCER1HM',
+    "database": "defaultdb",
+    "host": "db-postgresql-lon1-88487-do-user-3028378-0.b.db.ondigitalocean.com",
     "dialect": "postgres"
   },
   "production": {
-    "username": "antoinemassih",
-    "password": 'Monkeyhero69',
-    "database": "expense_tracker",
-    "host": "127.0.0.1",
+    "username": "doadmin",
+    "password": 'AVNS_DyBxEcx3OwsiSCER1HM',
+    "database": "defaultdb",
+    "host": "db-postgresql-lon1-88487-do-user-3028378-0.b.db.ondigitalocean.com",
     "dialect": "postgres"
   },
