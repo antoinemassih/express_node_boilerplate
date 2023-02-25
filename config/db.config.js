@@ -4,6 +4,7 @@ module.exports = {
     PASSWORD: "Monkeyhero69",
     DB: "expense_tracker",
     dialect: "postgres",
+    port: 5432,
     pool: {
         max: 5,
         min: 0,
